@@ -34,5 +34,5 @@ Long Life Hackers.
 ```
 
 ```
-Powered by Nabil harabi.
+Powered by The Hacker.
 ```
