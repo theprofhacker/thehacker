@@ -23,8 +23,8 @@ layout: default
 <dd>404</dd>
 <dt>Birthplace</dt>
 <dd>Not Found</dd>
-<dt>Facebook</dt>
-<dd>https://www.facebook.com/thehack5r</dd>
+<dt>Twitter</dt>
+<dd>https://twitter.com/theprofhacker</dd>
 <dt>Youtube</dt>
   <dd>https://www.youtube.com/channel/UC4kT_JJ391m8oNqaRUPPH_A</dd>
 </dl>
