@@ -26,7 +26,7 @@ layout: default
 <dt>Twitter</dt>
 <dd>https://twitter.com/theprofhacker</dd>
 <dt>Youtube</dt>
-  <dd>https://www.youtube.com/channel/UC4kT_JJ391m8oNqaRUPPH_A</dd>
+  <dd>https://www.youtube.com/channel/UCbWG_WHQXyiV1rpvNxieELA</dd>
 </dl>
 
 ```
