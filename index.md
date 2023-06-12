@@ -25,8 +25,8 @@ layout: default
 <dd>Not Found</dd>
 <dt>Twitter</dt>
 <dd>https://twitter.com/theprofhacker</dd>
-<dt>Vimeo</dt>
-  <dd>https://vimeo.com/theprofhacker</dd>
+<dt>Telegram</dt>
+  <dd>https://t.me/theproffhacker</dd>
 </dl>
 
 ```
