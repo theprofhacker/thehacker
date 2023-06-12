@@ -26,7 +26,7 @@ layout: default
 <dt>Twitter</dt>
 <dd>https://twitter.com/theprofhacker</dd>
 <dt>Telegram</dt>
-  <dd>https://t.me/Sabri2020</dd>
+  <dd>https://t.me/theproffhacker</dd>
 </dl>
 
 ```
