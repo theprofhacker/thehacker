@@ -8,7 +8,7 @@ layout: default
 
 ### Growth Hacking is a Mindset Rather than a Toolset
 
-![]([[https://images.pling.com/img/00/00/65/87/21/1786939/anonymous-dark-horror-anarchy-mask-fuck-gesture-finger-1920x1080.jpg])
+![]([https://www.wallpaperup.com/uploads/wallpapers/2013/01/15/29518/2134ec359b6145c9e66ce18687dcf777-1000.jpg])
 
 ### Hacking is my real life.
 
