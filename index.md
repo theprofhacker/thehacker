@@ -9,7 +9,7 @@ layout: default
 ### Growth Hacking is a Mindset Rather than a Toolset
 
 ![]([https://www.wallpaperup.com/uploads/wallpapers/2013/01/15/29518/2134ec359b6145c9e66ce18687dcf777-1000.jpg])
-
+<img src="https://www.wallpaperup.com/uploads/wallpapers/2013/01/15/29518/2134ec359b6145c9e66ce18687dcf777-1000.jpg" alt="https://www.wallpaperup.com/uploads/wallpapers/2013/01/15/29518/2134ec359b6145c9e66ce18687dcf777-1000.jpg" class="shrinkToFit" width="636" height="358">
 ### Hacking is my real life.
 
 <dl>
