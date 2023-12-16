@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to my page
+## echo -e "Born to Hack"
 
 _The Hacker_
 
