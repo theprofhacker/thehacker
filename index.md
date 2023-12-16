@@ -8,7 +8,7 @@ layout: default
 
 ### Growth Hacking is a Mindset Rather than a Toolset
 
-![]([http://www.growth-hackers.net/wp-content/uploads/2017/02/growth-hacking-mindset.jpg](https://images.pling.com/img/00/00/65/87/21/1786939/anonymous-dark-horror-anarchy-mask-fuck-gesture-finger-1920x1080.jpg))
+![]([[https://images.pling.com/img/00/00/65/87/21/1786939/anonymous-dark-horror-anarchy-mask-fuck-gesture-finger-1920x1080.jpg])
 
 ### Growth Hacking is a Mindset Rather than a Toolset
 ![](https://scontent.ftun4-1.fna.fbcdn.net/v/t1.0-9/19554704_1357089234386268_1374391276796990146_n.png?oh=0775b9d3e94d2c1de5efb2e9283081ff&oe=5A69B5D8)
