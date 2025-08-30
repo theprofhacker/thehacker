@@ -20,9 +20,9 @@ layout: default
 <dt>Birthplace</dt>
 <dd>Not Found</dd>
 <dt>Twitter X</dt>
-<dd>https://twitter.com/theprofhacker</dd>
+<dd>https://twitter.com/theproffhacker</dd>
 <dt>Telegram</dt>
-  <dd>https://t.me/theproffhacker</dd>
+  <dd>https://t.me/sabri2020</dd>
 </dl>
 
 ```
