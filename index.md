@@ -24,9 +24,9 @@ layout: default
 <dt>Birthplace</dt>
 <dd>Not Found</dd>
 <dt>Twitter</dt>
-<dd>https://twitter.com/theprofhacker</dd>
+<dd>https://x.com/theprocracker</dd>
 <dt>Telegram</dt>
-  <dd>https://t.me/theproffhacker</dd>
+  <dd>https://t.me/social2hack</dd>
 </dl>
 
 ```
